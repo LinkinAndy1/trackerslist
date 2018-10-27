@@ -27,10 +27,6 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 ##### Contact
 ngosang [@] hotmail [.es]
 
-##### Donations
-* BTC: [1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT](https://www.blocktrail.com/BTC/address/1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT)
-* ETH: [0x50A79a95878dd588A55E909dAc2eA3962D2fA46c](https://etherscan.io/address/0x50A79a95878dd588A55E909dAc2eA3962D2fA46c)
-
 ##### Third-party tools
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
 * [transmission bash script](https://github.com/oilervoss/transmission) to add these trackers to [transmission-remote](https://github.com/transmission/transmission)
